@@ -60,7 +60,7 @@ st.set_page_config(
 
 model = joblib.load(
 
-    "models/final_fraud_detection_model.pkl"
+    "models/final_fraud_detection_model_small.pkl"
 
 )
 
